@@ -1,6 +1,6 @@
 Hello,
 
-I'm Harsh-Noise.
+I'm Harsh-Noise, a chemistry student with an interest in computer science.
 
 I mostly code small projects in Java, but I know Python as well. May expand into Rust for faster algorithms.
 
